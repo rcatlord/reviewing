@@ -1,6 +1,7 @@
 # Convert standardised mean difference (d) to log odds ratio using Hasselblad and Hedges logit method
 # Data source: Strang et al., (2013)
 
+library(esc)
 e1 <- esc_d2or(d = 0.137, se = 0.127, totaln = 249, es.type = "logit", study = "Sherman & Strang (2012) #2") # No.2
 e2 <- esc_d2or(d = -0.044, se = 0.213, totaln = 106, es.type = "logit", study = "Shapland et al (2008) #4") # No.4
 e3 <- esc_d2or(d = -0.105, se = 0.155, totaln = 186, es.type = "logit", study = "Shapland et al (2008) #5") # No.5
