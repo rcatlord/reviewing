@@ -15,5 +15,3 @@ These R scripts are useful for conducting meta-analyses.
 * [Create a fivethirtyeight style forest plot](https://github.com/rcatlord/meta-analysis/blob/master/fivethirtyeight_forest_plot.R)
 
 * [Create a forest plot using the meta R package](https://github.com/rcatlord/meta-analysis/blob/master/forest_plots.R)
-
-* [Calculate effect size from the difference between two percentages](https://github.com/rcatlord/meta-analysis/blob/master/percentage_difference.R)
