@@ -1,11 +1,11 @@
 Odds Ratio and Relative Risk
 ================
 
-**Study**: Finckenauer (1982)
-**Methods**: Random assignment
-**Participants**: 81 children and young adults aged 11-18 years of which 50% had previously offended
-**Intervention**: 3 hour rap session with ‘Lifers’ in Rahway State Prison in New Jersey
-**Outcome**: Percentage of new complaints, contacts or court appearances after 6 month follow-up period
+**Study**: Finckenauer (1982)    
+**Methods**: Random assignment    
+**Participants**: 81 children and young adults aged 11-18 years of which 50% had previously offended    
+**Intervention**: 3 hour rap session with ‘Lifers’ in Rahway State Prison in New Jersey    
+**Outcome**: Percentage of new complaints, contacts or court appearances after 6 month follow-up period    
 
 <table class="table table-condensed dummy">
 <caption>
