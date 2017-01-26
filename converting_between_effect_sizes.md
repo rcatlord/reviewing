@@ -168,6 +168,6 @@ Borenstein, M., Hedges, L. V., Higgins, J. P. T., & Rothstein, H. R. (2009). Int
 
 Lipsey, M. W., & Wilson, D. B. (2001). Practical meta-analysis. Thousand Oaks, CA: Sage.
 
-Petrosino A., Turpin-Petrosino C., Hollis-Peel M.E., & Lavenberg J.G. (2013) 'Scared Straight' and other juvenile awareness programs for preventing juvenile delinquency (Review). Cochrane Database of Systematic Reviews 2013, Issue 4.
+Petrosino A., Turpin-Petrosino C., Hollis-Peel M.E., & Lavenberg J.G. (2013) ['Scared Straight' and other juvenile awareness programs for preventing juvenile delinquency](http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD002796.pub2/full) (Review). Cochrane Database of Systematic Reviews 2013, Issue 4.
 
-Polanin, J. R., Snilstveit, B. (2016). Campbell Methods Policy Note on Converting Between Effect Sizes (Version 1.1, updated December 2016). Oslo: The Campbell Collaboration. DOI: 10.4073/cmpn.2016.3
+Polanin, J. R., Snilstveit, B. (2016). [Campbell Methods Policy Note on Converting Between Effect Sizes](https://www.campbellcollaboration.org/images/library/converting_between_effect_sizes.pdf) (Version 1.1, updated December 2016). Oslo: The Campbell Collaboration. DOI: 10.4073/cmpn.2016.3
