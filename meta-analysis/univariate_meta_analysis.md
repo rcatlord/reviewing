@@ -67,7 +67,7 @@ m <- metabin(event.e, n.e, event.c, n.c,
 forest(m, layout="revman5", comb.random=FALSE)
 ```
 
-![](univariate_meta_analysis_files/figure-markdown_github/unnamed-chunk-4-1.png)
+![](https://github.com/rcatlord/reviewing/blob/master/meta-analysis/forest_plot.png)
 
 Only 2 out of 7 studies produced a statistically significant result (Finkenauer, 1982 and Michigan D.O.C., 1967). However, the pooled estimate is statically significant. The odds ratio of reoffending amongst those exposed to the "Scared Straight" programme compared with the control group is 1.68 which is statistically signifiant because the 95% confidence interval of (1.20, 2.36) using a fixed-effects model does not contain the value 1. This suggests that participants of the "Scared Straight" programme are 68% more likely to reoffend than those not exposed to it. "The intervention on average is more harmful to juveniles than doing nothing" (Petrosino et al. 2003: 41).
 
