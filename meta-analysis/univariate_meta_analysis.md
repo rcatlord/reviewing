@@ -54,7 +54,7 @@ print(study1, digits=2)
     ## Details:
     ## - Inverse variance method
 
-In the Finkenauer (1982) study, 19 out of 46 participants (41.3%) in the intervention group who were exposed to the "Scared Straight" programme reoffended at follow-up, compared with 4 out of 35 in the control group (11.4%). This was a statistically significant difference since the confidence interval doesn't include 1.0. This single study suggests that the "Scared Straight" programme increases the risk of reoffending.
+In the Finkenauer (1982) study, 19 out of 46 participants (41.3%) in the intervention group who were exposed to the "Scared Straight" programme reoffended at follow-up, compared with 4 out of 35 in the control group (11.4%). This was a statistically significant difference since the confidence interval doesn't include 1. This single study suggests that the "Scared Straight" programme increases the risk of reoffending.
 
 #### Estimate odds ratios for each study and produce a forest plot
 
