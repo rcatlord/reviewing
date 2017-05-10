@@ -17,6 +17,7 @@
      
 **Risk of Bias**
 - [Cochrane handbook chapter](http://handbook.cochrane.org/chapter_8/8_assessing_risk_of_bias_in_included_studies.htm)
+- [ROBINS-I](https://sites.google.com/site/riskofbiastool/welcome/home)
      
 **Meta-analysis**
 - [Meta-Analysis Effect Size Calculator](http://cebcp.org/practical-meta-analysis-effect-size-calculator/)
