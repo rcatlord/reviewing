@@ -1,9 +1,9 @@
 ```r
-library(DiagrammeR) ; library(tidyr) ; library(dplyr)
+library(DiagrammeR) ; library(tidyverse)
 
 # simple
 gantt <- mermaid("
-gantt
+                 gantt
                  dateFormat  YYYY-MM-DD
                  title Provisional timeline for Rapid Evidence Assessment
                  
@@ -12,8 +12,8 @@ gantt
                  Peer review protocol                    :    review_2, after review_1, 2d
                  Search for studies                      :    review_3, 2017-02-20, 1d 
                  Study selection                         :    review_4, 2017-02-21, 21d 
-                 Data extraction                         :    review_5, after review_4, 7d 
-                 Assessment of methodological quality    :    review_6, after review_5, 3d 
+                 Assessment of methodological quality    :    review_5, after review_4, 7d 
+                 Data extraction                         :    review_6, after review_5, 3d 
                  Synthesis                               :    review_7, after review_6, 2d 
                  Prepare draft REA                       :    review_8, after review_7, 8d
                  Publish REA                             :    review_9, after review_8, 8d
